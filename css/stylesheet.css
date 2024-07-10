@@ -1,0 +1,99 @@
+body{
+    /* text-align: center; */
+    background-color: black;
+}
+#headerSection{
+    padding: 5px;
+}
+#headerSection h1{
+    font-family: cursive;
+    color: white;
+}
+#bodySection h2{
+    font-family: cursive;
+    color: white;
+}
+#bodySection h3{
+    font-family: cursive;
+    color: white;
+}
+input{
+    padding: 10px;
+    border-radius: 5px solid white;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 13px solid white;
+    width: 13%;
+}
+#loginbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color:rgb(18, 66, 180);
+    color: white;
+    border-radius: 5px solid white;
+    cursor: pointer;
+}
+.newuser{
+    color: white;
+}
+
+.newuser a:hover{
+    color: red;
+}
+#address{
+    width: 30%;
+}
+#imagepart{
+    border: 2px solid white;
+    border-radius: 5px solid white;
+    padding: 10px;
+    width: 30%;
+    color: white;
+}
+#role{
+    border: 2px solid white;
+    border-radius: 5px solid white;
+    padding: 10px;
+    width: 30%;
+    color: white;
+}
+.alreadyuser{
+    color: white;
+}
+.alreadyuser a:hover{
+    color: red;
+}
+.alreadyuser button{
+    cursor: pointer;
+}
+#role select{
+    border: 1px solid black;
+    border-radius: 5px solid white;
+    padding: 10px;
+}
+button{
+    padding: 5px;
+    font-size: 15px;
+    background-color: rgb(18, 66, 180);
+    color: white;
+    border-radius: 5px solid white;
+}
+#backbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: rgb(18, 66, 180);
+    color: white;
+    border-radius: 5px solid white;
+    float:left;
+}
+
+#logoutbtn{
+padding: 5px;
+    font-size: 15px;
+    background-color: rgb(29, 91, 121);
+    color: white;
+    border-radius: 5px solid white;
+    float:right;
+}
+
